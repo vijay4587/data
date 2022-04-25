@@ -14,8 +14,8 @@ import pandas
 import random
 import smtplib
 
-MY_EMAIL = "vijaysow269@gmail.com"
-MY_PASSWORD = "sowgandhika"
+MY_EMAIL = "vijayravuri269@gmail.com"
+MY_PASSWORD = "vijay"
 
 now = dt.datetime.now()
 today_month = now.month
